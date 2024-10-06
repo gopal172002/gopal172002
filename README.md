@@ -5,7 +5,7 @@
 - 📫 How to reach me: **gopalkalsiya1h@gmail.com**
 
 <p align="left">
-    <a href="https://drive.google.com/file/d/1QeTR5Xkw1DcLOIdY-k4Ak6MhKgGYv3yp/view?usp=drive_link" target="_blank">View Resume</a>
+    <a href="https://drive.google.com/file/d/14ME0ayjFlS0rnsDgD9AhwIaDicckRP_3/view?usp=sharing" target="_blank">View Resume</a>
 </p>
 
 ## 🌐 Socials:
