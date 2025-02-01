@@ -4,10 +4,6 @@
 
 - 📫 How to reach me: **gopalkalsiya1h@gmail.com**
 
-<p align="left">
-    <a href="https://drive.google.com/file/d/14ME0ayjFlS0rnsDgD9AhwIaDicckRP_3/view?usp=sharing" target="_blank">View Resume</a>
-</p>
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GopalKalsi4986) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-kalsiya-227415257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Codeforces](https://img.shields.io/badge/Codeforces-%2331A8FF.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gopalkalsiya?mobile=false)
 
